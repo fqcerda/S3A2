@@ -1,0 +1,191 @@
+body {
+	background-color: #d7d7d7;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+.main {
+	width:85%;
+	height: 1000px;
+	margin:auto;
+	margin-top: 100px;
+	background-color: white;
+}
+
+.header {
+	width: 100%;
+	padding-right: 10%;
+	padding-left:10%;
+	padding-top: 50px;
+	box-sizing: border-box;
+	text-align: center;
+}
+
+.header img {
+	width:200px;
+	border-radius: 50%;
+	border: 6px solid #f1f1f1;
+	margin-top: -130px;
+}
+
+h1 {
+	font-size: 20px;
+	text-transform: uppercase;
+	color:#393939;
+}
+
+h1 span {
+	color:#ee7038;
+}
+
+h2 {
+	font-size: 16px;
+	text-transform: uppercase;
+	color:#ee7038;
+	margin-top: 30px;
+}
+
+p {
+	font-size: 12px;
+	color:#aeaeae;
+	text-align: justify;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+}
+
+hr {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #dedede;
+	border-radius: 20%;
+}
+
+.container {
+	width: 60%;
+	float: left;
+	box-sizing: border-box;
+	padding-left: 10%; 
+	padding-right: 20px;
+
+}
+
+.aside {
+	width: 40%;
+	float: left;
+	box-sizing: border-box;
+}
+
+li {
+	font-size: 12px;
+	text-transform: uppercase;
+	color:#393939;
+	text-align: justify;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+}
+
+.edu-izq {
+	width:15%;
+	float: left;
+	box-sizing: border-box;
+
+}
+
+.edu-der {
+	width:85%;
+	float: left;
+	box-sizing: border-box;
+	background-color: #f8f7f7;
+	padding:10px;
+	border-radius: 5px;
+	margin-bottom: 5px;
+}
+
+.titulo {
+	font-size: 12px;
+	text-transform: uppercase;
+	color: #393939;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+}
+
+.fecha {
+	font-size: 16px;
+}
+
+.exp-izq {
+	width:20%;
+	float: left;
+	box-sizing: border-box;
+	padding-top: 10px; 
+
+}
+
+.exp-der {
+	width:80%;
+	float: left;
+	box-sizing: border-box;
+	padding:10px;
+}
+
+.aside li {
+	list-style: none;
+}
+
+ul {
+	padding: 0;
+}
+
+.phyton {
+	width: 60%;
+	background-color: #ee7038;
+}
+
+.html {
+	width: 80%;
+	background-color: #ee7038;
+}
+
+.css {
+	width: 40%;
+	background-color: #ee7038;
+}
+
+.js {
+	width: 50%;
+	background-color: #ee7038;
+}
+
+.php {
+	width: 20%;
+	background-color: #ee7038;
+}
+
+.blanco {
+
+	color:white;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 5px;
+}
+
+.estrella {
+	font-size: 20px;
+}
+
+.rojo {
+	color:#ee7038;
+}
+
+.float {
+    float: left;
+    margin: 0;
+    font-size: 1em;
+}
+
+.idiomas li {
+	width: 100%;
+	width: 100%;
+    clear: both;
+    font-size: 1rem;
+}
