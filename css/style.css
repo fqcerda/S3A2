@@ -134,6 +134,7 @@ li {
 
 ul {
 	padding: 0;
+	margin-bottom: 50px;
 }
 
 .phyton {
@@ -183,9 +184,66 @@ ul {
     font-size: 1em;
 }
 
+.float2 {
+    float: right;
+    margin: 0;
+    font-size: 1em;
+    padding-right: 220px;
+}
+
+
 .idiomas li {
 	width: 100%;
 	width: 100%;
     clear: both;
     font-size: 1rem;
 }
+
+.hobbies {
+	display: block;
+	float: left;
+	width: 25%;
+	margin-right: 20px;
+	background-color: #ea3909;
+	border-radius: 5px;
+}
+
+.centro {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.espacio {
+	margin-bottom: 20px;
+}
+
+.footer {
+	width: 80%;
+	margin:0 auto;
+	display: block;
+	clear: both;
+}
+
+@media (max-width: 480px) {
+	.container {
+		width: 100%;
+	}
+	.aside {
+		width: 100%;
+		padding-left: 10%;
+		box-sizing: border-box;
+	}
+
+	.main {
+		height: 1800px;
+	}
+
+	.hobbies {
+		margin-bottom: 20px;
+	}
+
+
+
+}
+
+
